@@ -12,6 +12,7 @@ body {
   color:#fff;
   background-color: #231b2e;
   line-height: 35px;
+  font-size: 20px;
 }
 
 li {
@@ -81,7 +82,12 @@ li {
   margin-bottom:15px;
   color:#8c9ba8;
 }
-.box h3{
-  font-size: 20px;
+.box h2{
+  font-size: 30px;
   color:#fff;
+}
+
+
+.h2{
+  font-size: 30px;
 }
