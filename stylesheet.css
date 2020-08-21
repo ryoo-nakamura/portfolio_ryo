@@ -39,6 +39,7 @@ li {
 
 .box1{
   padding: 0px 50px 40px 50pxx;
+  width: 100%;
 }
 /* header-logoの文字の大きさを36px、floatプロパティをleftにしてください */
 .header-logo{
@@ -49,21 +50,22 @@ li {
 
 .im {
           float: left;
-          width: 50%; /* 要素の幅を50%に定義 */
+          width: 48%; /* 要素の幅を50%に定義 */
           text-align:center;
-          position:relative;
-          right: 50px;
+          /* background-color: #343a40; */
+          /* position:relative; */
+          /* right: 50px; */
 }
 .about {
           float: right;
-          clear: both;
+          /* clear: both; */
           width: 50%; /* 要素の幅を50%に定義 */
           text-align:left;
           margin-right:30px;
           background-color: #343a40;
-          position:relative;
-          bottom: 280px;
-          right: 50px;
+          /* position:relative; */
+          /* bottom: 280px; */
+          /* right: 50px; */
 }
 
 .box2{
