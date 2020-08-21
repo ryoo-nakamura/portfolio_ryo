@@ -52,7 +52,7 @@ li {
           float: left;
           width: 47%; /* 要素の幅を50%に定義 */
           text-align:center;
-          /* background-color: #343a40; */
+          background-color: #343a40;
           /* position:relative; */
           /* right: 50px; */
 }
