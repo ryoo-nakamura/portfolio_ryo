@@ -50,7 +50,7 @@ li {
 
 .im {
           float: left;
-          width: 45%; /* 要素の幅を50%に定義 */
+          width: 35%; /* 要素の幅を50%に定義 */
           text-align:center;
           /* background-color: #343a40; */
           /* position:relative; */
@@ -59,7 +59,7 @@ li {
 .about {
           float: right;
           /* clear: both; */
-          width: 50%; /* 要素の幅を50%に定義 */
+          width: 60%; /* 要素の幅を50%に定義 */
           text-align:left;
           margin-right:30px;
           background-color: #343a40;
