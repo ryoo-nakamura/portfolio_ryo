@@ -1,0 +1,9 @@
+[submodule "themes/themes/timer-hugo"]
+	path = themes/themes/timer-hugo
+	url = https://github.com/themefisher/timer-hugo.git
+[submodule "themes/themes/starter-academic"]
+	path = themes/themes/starter-academic
+	url = https://github.com/wowchemy/starter-academic.git
+[submodule "themes/starter-academic"]
+	path = themes/starter-academic
+	url = https://github.com/wowchemy/starter-academic.git
