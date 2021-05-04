@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+# baseURL = "http://example.org/"
+baseURL = "ryoo-nakamura/portfolio_ryo/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "starter-academic"
