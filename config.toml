@@ -2,6 +2,8 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "starter-academic"
+publishDir = "docs"
+canonifyurls = true
 
 name = "Academic"
 license = "MIT"
