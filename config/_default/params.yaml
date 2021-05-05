@@ -122,6 +122,7 @@ projects:
 breadcrumb:
   page_types:
     book: true
+    
 comments:
   provider: ''
   commentable:
@@ -134,7 +135,8 @@ comments:
     shortname: ''
     show_count: true
   commento:
-    url: ''
+    url: 'https://formspree.io/f/mleagape'
+    
 search:
   provider: wowchemy
   algolia:
@@ -142,6 +144,7 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
+    
 map:
   provider: mapnik
   api_key: ''
