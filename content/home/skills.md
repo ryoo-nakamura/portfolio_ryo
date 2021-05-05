@@ -3,12 +3,15 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
+# Activate this widget? true/false
+active: false
+
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 30
-
+#表示される場所
 title: Skills
 subtitle:
 
@@ -28,6 +31,11 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
+  
+#- description: 10%
+#  icon: Python
+#  icon_pack: fas
+#  name: Python
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"

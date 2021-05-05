@@ -22,28 +22,64 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Intern ( Data Scientist )
+    company: 株式会社レッジ
+    company_url: 'https://ledge.co.jp'
+    company_logo: ledge
+    location: Gotanda, Tokyo
+    date_start: '2020-07-14'
+    date_end: '2020-08-01'
+    description: ワーク内容
+    
+     - [ インフルエンザ患者数予測](https://prtimes.jp/main/html/rd/p/000000021.000030320.html)
+    
+  - title: Reserch assistant (RA)
+    company: 産業総合技術研究所(AIST)
+    company_url: 'https://www.airc.aist.go.jp/cvrt/'
+    company_logo: aist
+    location: Tsukuba, Ibaraki
+    date_start: '2021-05-06'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: 
+    
+  - title: cvpaper.challenge headquarter
+    company: cvpaper.challenge
+    company_url: 'http://xpaperchallenge.org/cv/'
+    company_logo: cvpaper
+    location: Online
+    date_start: '2021-05-06'
+    date_end: ''
+    description: ワーク内容
+    
+     - [ 研究効率化Tips](https://www.slideshare.net/cvpaperchallenge/cvpaperchallenge-tips-241914101)
+     
+     - [ High-impact Papers in Computer Vision](https://www.slideshare.net/cvpaperchallenge/highimpact-papers-in-computer-vision)
+
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Intern (engineer)
+    company: 株式会社天地人
+    company_url: 'https://tenchijin.co.jp'
+    company_logo: tenthijin
+    location: Nihonbashi, Tokyo
+    date_start: '2020-08-21'
+    date_end: ''
+    description: ワーク内容
+    
+     - [ 電波資源拡大のための研究開発](https://prtimes.jp/main/html/rd/p/000000007.000045963.html)
+     
+     - 衛星画像解析
+     
+     - 最新の技術調査・検討
+     
+    
+#  - title: Professor of Semiconductor Physics
+#    company: University X
+#    company_url: ''
+#    company_logo: org-x
+#    location: California
+#    date_start: '2016-01-01'
+#   date_end: '2020-12-31'
+#    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'

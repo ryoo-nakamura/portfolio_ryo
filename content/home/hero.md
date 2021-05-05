@@ -1,8 +1,12 @@
 ---
 widget: hero
-headless: true
-weight: 10
-title: Hugo Academic Starter
+headless: false
+
+# Activate this widget? true/false
+active: false
+
+weight: 5
+title: Welcome to Nakamura's portfolio.
 hero_media: hero-academic.png
 cta:
   label: '**Get Started**'
@@ -17,7 +21,7 @@ design:
   background:
     gradient_end: '#1976d2'
     gradient_start: '#004ba0'
-    text_color_light: true
+    text_color_light: false
 advanced:
   css_class: fullscreen
 ---
