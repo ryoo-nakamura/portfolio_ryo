@@ -3,7 +3,7 @@ baseURL = "ryoo-nakamura/portfolio_ryo/docs/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "starter-academic"
-publishDir = "docs"
+# publishDir = "docs"
 canonifyurls = true
 
 name = "Academic"
