@@ -41,7 +41,7 @@ content:
 ---
 
 ## Presentation
-### ・背景学習によるVAEを用いた大雑把な対象領域抽出
+#### ・背景学習によるVAEを用いた大雑把な対象領域抽出
 <span style="font-size: 80%">中村 凌，植田 祥明，藤木 淳，田中 勝， Information-Based Induction Sciences 2020(IBIS2020)，ポスター発表，2020/11/26</span>
 
 ---
