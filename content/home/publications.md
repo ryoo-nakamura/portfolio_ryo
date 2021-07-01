@@ -41,7 +41,7 @@ content:
 
 ## Presentation
 #### ・Output augmentation works well without any domain knowledge
-<span style="font-size: 80%">Shu Eguchi，Ryo Nakamura，Masaru Tanaka， International Conference on Machine Vision Applications (MVA2021)，2020/7/25-27</span>
+<span style="font-size: 80%">Shu Eguchi，Ryo Nakamura，Masaru Tanaka， International Conference on Machine Vision Applications (MVA2021)，2021/7/25-27</span>
 
 ---
 
@@ -51,7 +51,7 @@ content:
 ---  
 
 #### ・背景学習によるVAEを用いた大雑把な対象領域抽出
-<span style="font-size: 80%">中村 凌，植田 祥明，藤木 淳，田中 勝， Information-Based Induction Sciences 2020(IBIS2020)，ポスター発表，2020/11/26</span>
+<span style="font-size: 80%">中村 凌，植田 祥明，藤木 淳，田中 勝， Information-Based Induction Sciences 2020(IBIS2020)，2020/11/26</span>
 
 ---
 
