@@ -37,8 +37,18 @@ content:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 4 -->
-  
 ---
+
+## Presentation
+#### ・Output augmentation works well without any domain knowledge
+<span style="font-size: 80%">Shu Eguchi，Ryo Nakamura，Masaru Tanaka， International Conference on Machine Vision Applications (MVA2021)，2020/7/25-27</span>
+
+---
+
+## Presentation
+#### ・多様なユースケースに対応するためのKa帯衛星の制御に関する研究開発―通信需要・回線条件の予測技術―
+<span style="font-size: 80%">木村紋子，上田敦士，川島穣，瞿万霆，小暮駿介，佐々木健一，中間洋子サラ，中村凌，堀江秀斗， 2021年電子情報通信学会総合大会，2021/3/9</span>
+---  
 
 ## Presentation
 #### ・背景学習によるVAEを用いた大雑把な対象領域抽出
