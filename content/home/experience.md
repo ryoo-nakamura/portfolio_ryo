@@ -33,7 +33,7 @@ experience:
     
      - [ インフルエンザ患者数予測](https://prtimes.jp/main/html/rd/p/000000021.000030320.html)
     
-  - title: Reserch assistant (RA)
+  - title: Research assistant (RA)
     company: 産業総合技術研究所(AIST)
     company_url: 'https://www.airc.aist.go.jp/cvrt/'
     company_logo: aist

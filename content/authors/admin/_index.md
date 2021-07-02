@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Master of Scienc (Mathematics of Information)
+  - course: Master of Science (Mathematics of Information)
     institution: Fukuoka University 
     year: 2021
 
