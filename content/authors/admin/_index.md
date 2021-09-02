@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ryo nakamura
+title: 中村 凌 / Ryo nakamura
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,7 +19,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computer VIsion
+- Computer Vision
 - Information geometry
 - Remote sensing
 
