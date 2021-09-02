@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 中村 凌 / Ryo nakamura
+title: 中村 凌 <br> Ryo nakamura
 
 # Is this the primary user of the site?
 superuser: true
