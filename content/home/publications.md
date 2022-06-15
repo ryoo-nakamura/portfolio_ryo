@@ -53,9 +53,12 @@ content:
 <span style="font-size: 80%">中村 凌，田中 勝，藤木 淳，植田 祥明， ニューロコンピューティング研究会(NC)，2019/12/06</span>
 
 ---
+
+<br />
 ## Presentation
-###・最新研究の始め方
-<span style="font-size: 80%">中村 凌 Vision Engineering Workshop 2021 (ViEW2021) ，チュートリアルセッション，2021/12/2,3</span>
+
+#### ・最新研究の始め方
+<span style="font-size: 80%">中村 凌，Vision Engineering Workshop 2021 (ViEW2021) ，チュートリアルセッション，2021/12/2</span>
 
 ---
 
@@ -72,8 +75,9 @@ content:
 #### ・背景学習による対象領域抽出
 <span style="font-size: 80%">中村 凌，植田 祥明，藤木 淳，田中 勝， Meeting on Image Recognition and Understanding(MIRU)，2020/08/02-05，**学生奨励賞受賞**</span>
 
-
 ---
 
 #### ・CNN with Aperture Synthesis
 <span style="font-size: 80%">中村 凌，植田 祥明，田中 勝， Information-Based Induction Sciences 2019(IBIS2019)，2019/11/20</span>
+
+---

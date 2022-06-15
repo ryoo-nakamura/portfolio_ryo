@@ -60,6 +60,10 @@ experience:
      - [ cvpaper.challenge conference winter 2021 (CCCW2021) General Chair](https://research-p.com/event/322)
      
      - [ ViEW2021 招待講演　チュートリアルセッション 「最新研究の始め方」](https://view.tc-iaip.org/view/2021/speaker/ts1)
+          
+     - [ 研究効率化Tips ver2 ](https://www.slideshare.net/cvpaperchallenge/tips-ver2-250474910)
+     
+     - [ 【メタサーベイ】数式ドリブン教師あり学習 ](https://www.slideshare.net/cvpaperchallenge/ss-251948753)
 
         
   - title: Intern (engineer)
