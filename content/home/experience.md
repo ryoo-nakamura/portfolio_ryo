@@ -54,6 +54,12 @@ experience:
      - [ 研究効率化Tips](https://www.slideshare.net/cvpaperchallenge/cvpaperchallenge-tips-241914101)
      
      - [ High-impact Papers in Computer Vision](https://www.slideshare.net/cvpaperchallenge/highimpact-papers-in-computer-vision)
+     
+     - [ cvpaper.challenge conference 2021 (CCC2021) Program Chair](https://ai-scholar.tech/events/cvpaper.challenge)
+     
+     - [ cvpaper.challenge conference winter 2021 (CCCW2021) General Chair](https://research-p.com/event/322)
+     
+     - [ ViEW2021 招待講演　チュートリアルセッション 「最新研究の始め方」](https://view.tc-iaip.org/view/2021/speaker/ts1)
 
         
   - title: Intern (engineer)
