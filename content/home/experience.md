@@ -40,8 +40,12 @@ experience:
     location: Tsukuba, Ibaraki
     date_start: '2021-05-06'
     date_end: ''
-    description: 
-    
+    description: 研究内容
+   
+     - Fomura-Driven Supervised Learning
+
+     - Traffic Accident Video Recognition
+                   
   - title: cvpaper.challenge headquarter
     company: cvpaper.challenge
     company_url: 'http://xpaperchallenge.org/cv/'
@@ -63,9 +67,18 @@ experience:
           
      - [ 研究効率化Tips ver2 ](https://www.slideshare.net/cvpaperchallenge/tips-ver2-250474910)
      
-     - [ 【メタサーベイ】数式ドリブン教師あり学習 ](https://www.slideshare.net/cvpaperchallenge/ss-251948753)
+     - [【メタサーベイ】数式ドリブン教師あり学習 ](https://www.slideshare.net/cvpaperchallenge/ss-251948753)
+     
+     - [【メタサーベイ】基盤モデル / Foundation Models ](https://www.slideshare.net/cvpaperchallenge/foundation-models)
+     
+     - [CVPR2022網羅的サーベイ ](http://xpaperchallenge.org/cv/survey/cvpr2022_summaries/) 
+     
+     - [ cvpaper.challenge conference summer 2022 (CCCS2022) Program Chair](https://research-p.com/event/545)
+     
+     - [ECCV2022網羅的サーベイ ](http://xpaperchallenge.org/cv/survey/eccv2022_summaries/) 
+     
+     - [ CVPR2023速報 ](https://t.co/16aut8uWja)
 
-        
   - title: Intern (engineer)
     company: 株式会社天地人
     company_url: 'https://tenchijin.co.jp'
@@ -80,6 +93,8 @@ experience:
      - 衛星画像解析
      
      - 最新の技術調査・検討
+     
+     - Data science team leader
      
     
 #  - title: Professor of Semiconductor Physics
