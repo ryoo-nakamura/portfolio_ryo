@@ -79,7 +79,7 @@ content:
 ## Presentation
 
 #### ・限られた合成画像を用いたVision Transformerの事前学習
-<span style="font-size: 80%">中村 凌1,2、片岡 裕雄1、高島 空良3、MARTINEZ-NORIEGA Edgar Josafat3、横田 理央3、井上 中順3 (1. 産業技術総合研究所、2. 福岡大学、3. 東京工業大学)，第29回画像センシングシンポジウム(SSII2023) ，2023/6/14，**インタラクティブセッション・オーディエンス賞**</span>
+<span style="font-size: 80%">中村 凌1,2、片岡 裕雄1、高島 空良3、MARTINEZ-NORIEGA Edgar Josafat3、横田 理央3、井上 中順3 (1. 産業技術総合研究所、2. 福岡大学、3. 東京工業大学)，第29回画像センシングシンポジウム(SSII2023) ，2023/6/14，**インタラクティブセッション・オーディエンス賞受賞**</span>
 
 ---
 
