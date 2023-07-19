@@ -40,7 +40,7 @@ content:
 ---
 ## Publication
 #### ・Pre-training Vision Transformers with Very Limited Synthesized Images
-<span style="font-size: 80%">Ryo Nakamura1,2，Hirokatsu Kataoka 2，Sora Takashima 3, MARTINEZ-NORIEGA Edgar Josafat 3,Rio Yokota 3, Nakamasa Inoue3 (1. AIST, 2. Fukuoka Univ.、3.  Tokyo Institute of Technology), International Conference on Computer Vision 2023 (ICCV 2023)</span>
+<span style="font-size: 80%">Ryo Nakamura1,2，Hirokatsu Kataoka 1，Sora Takashima 3，MARTINEZ-NORIEGA Edgar Josafat 3，Rio Yokota 3,，Nakamasa Inoue3 (1. AIST，2. Fukuoka Univ.，3.  Tokyo Institute of Technology), International Conference on Computer Vision 2023 (ICCV 2023)</span>
 
 ---  
 #### ・Traffic Incident Database with Multiple Labels Including Various Perspective Environmental Information
