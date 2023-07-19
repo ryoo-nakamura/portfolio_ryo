@@ -39,8 +39,12 @@ content:
   view: 4 -->
 ---
 ## Publication
+#### ・Pre-training Vision Transformers with Very Limited Synthesized Images
+<span style="font-size: 80%">Ryo Nakamura1,2，Hirokatsu Kataoka 2，Sora Takashima 3, MARTINEZ-NORIEGA Edgar Josafat 3,Rio Yokota 3, Nakamasa Inoue3 (1. AIST, 2. Fukuoka Univ.、3.  Tokyo Institute of Technology), International Conference on Computer Vision 2023 (ICCV 2023)</span>
+
+---  
 #### ・Traffic Incident Database with Multiple Labels Including Various Perspective Environmental Information
-<span style="font-size: 80%">Shota Nishiyama，Takuma Saito，Ryo Nakamura，Go Ohtani，Hirokatsu Kataoka，Kensho Hara (AIST)， IEEE/RSJ International Conference on Intelligent Robots and Systems 2023 (IROS 2023)，2023/6</span>
+<span style="font-size: 80%">Shota Nishiyama，Takuma Saito，Ryo Nakamura，Go Ohtani，Hirokatsu Kataoka，Kensho Hara (AIST)， IEEE/RSJ International Conference on Intelligent Robots and Systems 2023 (IROS 2023)</span>
 
 ---  
 
@@ -65,7 +69,7 @@ content:
 ---
 
 #### ・訓練画像セットの非対称性を用いた対象領域抽出
-<span style="font-size: 80%">中村 凌，植田 祥明，藤木 淳，田中 勝 (福岡大)， パターン認識・メディア理解研究会（PRMU），2019/3/17</span>
+<span style="font-size: 80%">中村 凌，植田 祥明，藤木 淳，田中 勝 (福岡大)， Pattern Recognition and Media Understanding（PRMU），2019/3/17</span>
 
 ---
 
@@ -104,7 +108,7 @@ content:
 ---
 
 #### ・背景学習による対象領域抽出
-<span style="font-size: 80%">中村 凌，植田 祥明，藤木 淳，田中 勝 (福岡大)， Meeting on Image Recognition and Understanding(MIRU2022)，2020/08/02-05，**学生奨励賞受賞**</span>
+<span style="font-size: 80%">中村 凌，植田 祥明，藤木 淳，田中 勝 (福岡大)， Meeting on Image Recognition and Understanding(MIRU2020)，2020/08/02-05，**学生奨励賞受賞**</span>
 
 ---
 
