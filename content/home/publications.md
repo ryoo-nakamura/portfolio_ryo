@@ -39,6 +39,14 @@ content:
   view: 4 -->
 ---
 ## Publication
+#### ・Pseudo-outlier synthesis using q-Gaussian distributions for out-of-distribution detection
+<span style="font-size: 80%">Ryo Nakamura 1,2, Ryu Tadokoro 3, Eisuke Yamagata 4, Yusuke Kondo 5, Kensho Hara 1, Hirokatsu Kataoka 1, Nakamasa Inoue 3 (1. AIST，2. Fukuoka Univ.，3. Tohoku Univ.，4. Toukyo Univ.，5.  Tokyo Institute of Technology), International Conference on Acoustics, Speech, and Signal Processing 2023 (ICASSP 2023) </span>
+
+---  
+#### ・Primitive Geometry Segment Pre-training for 3D Medical Image Segmentation
+<span style="font-size: 80%">Ryu Tadokoro1,2, Ryosuke Yamada 2,3, Kodai Nakashima 2,3, Ryo Nakamura2，Hirokatsu Kataoka 2 (1. Tohoku Univ., 2. AIST，3. Tsukuba Univ.), British Machine Vision Conference 2023 (BMVC 2023) </span>
+
+---  
 #### ・Pre-training Vision Transformers with Very Limited Synthesized Images
 <span style="font-size: 80%">Ryo Nakamura1,2，Hirokatsu Kataoka 1，Sora Takashima 3，MARTINEZ-NORIEGA Edgar Josafat 3，Rio Yokota 3,，Nakamasa Inoue3 (1. AIST，2. Fukuoka Univ.，3.  Tokyo Institute of Technology), International Conference on Computer Vision 2023 (ICCV 2023)</span>
 
