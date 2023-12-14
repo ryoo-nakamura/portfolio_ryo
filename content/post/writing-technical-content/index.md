@@ -1,9 +1,9 @@
----
+<!-- ---
 title: Writing technical content in Academic
 date: 2019-07-12
 math: true
-diagram: true
-highlight: true
+diagram: false
+highlight: false
 image:
   placement: 3
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
@@ -306,4 +306,4 @@ renders as
 {{< icon name="python" pack="fab" >}} Python  
 {{< icon name="r-project" pack="fab" >}} R
 
-### Did you find this page helpful? Consider sharing it 🙌
+### Did you find this page helpful? Consider sharing it 🙌 -->

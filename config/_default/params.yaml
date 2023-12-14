@@ -11,37 +11,36 @@ font: ''
 font_size: L
 
 # SEO
-
 site_type: Person, Portfolio
 local_business_type: 'machine learning resercher, deta scientist'
-org_name: 'Fukuoka University, AIST'
+org_name: 'Fukuoka University,  AIST'
 description: ''
 twitter: 'https://twitter.com/ryo123456789098'
 
 # Contact (edit or remove options as required)
 
-email: sd210501@cis.fukuoka-u.ac.jp
-phone: xxx-xxxx-xxxx
-address:
-#   street: 450 Serra Mall
-  city: 茨城県
-  region: つくば市,
-  postcode: 産業総合技術研究所　情報棟
-#   country: United States
-  country_code: JP
-coordinates:
-  latitude: '36.062366'
-  longitude: '140.1348061'
-# directions: 産業総合技術研究所　情報棟
-# office_hours:
-#   - 'Monday 10:00 to 13:00'
-#   - 'Wednesday 09:00 to 10:00'
-# appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow me on Twitter
-    link: 'https://twitter.com/ryo123456789098'
+# email: sd210501@cis.fukuoka-u.ac.jp
+# phone: xxx-xxxx-xxxx
+# address:
+# #   street: 450 Serra Mall
+#   city: 茨城県
+#   region: つくば市,
+#   postcode: 産業総合技術研究所　情報棟
+# #   country: United States
+#   country_code: JP
+# coordinates:
+#   latitude: '36.062366'
+#   longitude: '140.1348061'
+# # directions: 産業総合技術研究所　情報棟
+# # office_hours:
+# #   - 'Monday 10:00 to 13:00'
+# #   - 'Wednesday 09:00 to 10:00'
+# # appointment_url: 'https://calendly.com'
+# contact_links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow me on Twitter
+#     link: 'https://twitter.com/ryo123456789098'
 #   - icon: skype
 #     icon_pack: fab
 #     name: Skype Me
@@ -56,25 +55,24 @@ contact_links:
 #     link: 'https://discourse.gohugo.io'
 
 # Site header
-
 main_menu:
   enable: true
   align: l
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+# date_format: 'Jan 2, 2006'
+# time_format: '3:04 PM'
+# address_format: en-us
 
 # Site features
 
-highlight: true
+highlight: false
 highlight_languages:
   - r
   - python

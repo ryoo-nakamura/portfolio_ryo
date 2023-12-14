@@ -28,7 +28,6 @@ tags = ["widgets",
         "landing page",
         "projects",
         "single page",
-        "contact form",
         "mobile",
         "gallery",
         "search",
@@ -39,12 +38,11 @@ tags = ["widgets",
         "modern",
         "one page",
         "customizable",
-        "technical",
         "product",
         "slide"
         ]
 features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
-            "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
+            "blog", "create courses", "talks", "events", "slides", "gallery"]
 
 [author]
   name = "George Cushen"
