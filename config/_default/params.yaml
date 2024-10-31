@@ -113,13 +113,13 @@ avatar:
 publications:
   date_format: January 2006
   citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-breadcrumb:
-  page_types:
-    book: true
+# projects:
+#   post_view: 2
+#   publication_view: 2
+#   talk_view: 2
+# breadcrumb:
+#   page_types:
+#     book: true
     
 # comments:
 #   provider: ''
@@ -135,13 +135,13 @@ breadcrumb:
 #   commento:
 #     url: 'https://formspree.io/f/mleagape'
     
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
-    show_logo: false
+# search:
+#   provider: wowchemy
+#   algolia:
+#     app_id: ''
+#     api_key: ''
+#     index_name: ''
+#     show_logo: false
     
 # map:
 #   provider: mapnik
@@ -153,9 +153,9 @@ search:
 #   google_site_verification: ''
 #   baidu_site_verification: ''
 #   baidu_tongji: ''
-cms:
-  branch: master
-  local_backend: false
-icon:
-  pack:
-    ai: false
+# cms:
+#   branch: master
+#   local_backend: false
+# icon:
+#   pack:
+#     ai: false

@@ -40,7 +40,7 @@ permalinks:
   event: '/talk/:slug/'
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
-  categories: '/category/:slug/'
+  # categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
