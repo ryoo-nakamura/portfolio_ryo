@@ -10,7 +10,7 @@ role: Doctor of Philosophy student in Mathematics of Information
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Fukuoka University
+- name: Tenchijin Inc.
   url: https://www.fukuoka-u.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,6 +26,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Doctor of Philosophy student (Mathematics of Information)
+    institution: Fukuoka University 
+    year: 2024
+
   - course: Master of Science (Mathematics of Information)
     institution: Fukuoka University 
     year: 2021
@@ -40,9 +44,9 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
+# - icon: envelope
+#   icon_pack: fas
+#   link: 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ryo123456789098
@@ -55,9 +59,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ryoo-nakamura?tab=repositories
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/
+- icon: linkedin
+ icon_pack: fab
+ link: https://www.linkedin.com/feed/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -73,10 +77,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-福岡大学大学院 理学研究科 応用数学専攻の学生，産業技術総合研究所(産総研)RA，cvpaper.challenge HQ，株式会社天地人 ソフトウェアエンジニアの中村 凌です．
+株式会社天地人 データサイエンティストの中村凌です。地球に関するデータに関するデータ集計および機械学習の業務を通して社会課題に取り組んでいます。
 
-所属研究室は藤木淳先生(旧：田中勝先生)研究室に所属しており，産総研ではAIセンターコンピュータビジョンチーム片岡裕雄さんの元に所属しております．
+その他にSatAI.challengeという衛星データとAIの勉強会コミュニティとcvpaper.challengeの運営に携わっており、衛星とAIとCVの日本分野を活性化するべく活動しています。
 
-株式会社天地人では，宇宙データを使った，データ解析や深層学習を用いてクライアントの課題を解決に導く仕事を行っており，人類の文明活動を最適化するために日々努めています．
+福岡大学 藤木淳先生(旧：田中勝先生)の指導と、産業技術総合研究所（産総研） 片岡裕雄さんの元でRAのコンピュータビジョンのトップ会議採択・ワークショップ開催経験を通して、2023年度に博士（理学）を取得しました。
 
 

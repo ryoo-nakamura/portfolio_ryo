@@ -39,6 +39,18 @@ content:
   view: 4 -->
 ---
 ## Publication
+#### ・Simple variational inference based on minimizing Kullback–Leibler divergence
+<span style="font-size: 80%">Ryo Nakamura 1,Tomooki Yuasa 2, Takafumi Amaba 1, Jun Fujiki 1 (1. Fukuoka Univ.，2. Faculty of Economics and Business Administration),  Information Geometry </span>
+
+--- 
+#### ・Scaling Backwards: Minimal Synthetic Pre-training?
+<span style="font-size: 80%">Ryo Nakamura 1 *, Ryu Tadokoro 1 *, Ryosuke Yamada 1, Yuki M. Asano 2, Iro Laina 3, Christian Rupprecht 3, Nakamasa Inoue 4, Rio Yokota 4, Hirokatsu Kataoka 1 (1. AIST，2. University of Amsterdam，3. University of Oxford.，4. Tokyo Institute of Technology, * These authors contributed equally), European Conference on Computer Vision 2024 (ECCV 2024) </span>
+
+--- 
+#### ・On the Relationship Between Double Descent of CNNs and Shape/Texture Bias Under Learning Process
+<span style="font-size: 80%">Shun Iwase 1, Eisaku Maeda 1, Nakamasa Inoue 2, Hirokatsu Kataoka 3, Ryo Nakamura 3, Rio Yokota 2, Shuya Takahashi 1 (1. Tokyo Denki Univ.，2. Tokyo Institute of Technology，3. AIST), International Conference on Pattern Recognition 2024 (ICPR 2024) </span>
+
+--- 
 #### ・Pseudo-outlier synthesis using q-Gaussian distributions for out-of-distribution detection
 <span style="font-size: 80%">Ryo Nakamura 1,2, Ryu Tadokoro 3, Eisuke Yamagata 4, Yusuke Kondo 5, Kensho Hara 1, Hirokatsu Kataoka 1, Nakamasa Inoue 3 (1. AIST，2. Fukuoka Univ.，3. Tohoku Univ.，4. Toukyo Univ.，5.  Tokyo Institute of Technology), International Conference on Acoustics, Speech, and Signal Processing 2023 (ICASSP 2023) </span>
 
