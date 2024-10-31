@@ -121,19 +121,19 @@ breadcrumb:
   page_types:
     book: true
     
-comments:
-  provider: ''
-  commentable:
-    post: false
-    book: false
-    project: false
-    publication: false
-    event: false
-  disqus:
-    shortname: ''
-    show_count: false
-  commento:
-    url: 'https://formspree.io/f/mleagape'
+# comments:
+#   provider: ''
+#   commentable:
+#     post: false
+#     book: false
+#     project: false
+#     publication: false
+#     event: false
+#   disqus:
+#     shortname: ''
+#     show_count: false
+#   commento:
+#     url: 'https://formspree.io/f/mleagape'
     
 search:
   provider: wowchemy
@@ -143,16 +143,16 @@ search:
     index_name: ''
     show_logo: false
     
-map:
-  provider: mapnik
-  api_key: ''
-  zoom: 15
-marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
+# map:
+#   provider: mapnik
+#   api_key: ''
+#   zoom: 15
+# marketing:
+#   google_analytics: ''
+#   google_tag_manager: ''
+#   google_site_verification: ''
+#   baidu_site_verification: ''
+#   baidu_tongji: ''
 cms:
   branch: master
   local_backend: false
