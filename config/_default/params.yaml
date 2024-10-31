@@ -91,7 +91,7 @@ edit_page:
 show_related:
   book: true
   page: false
-  post: true
+  post: false
   project: true
   publication: true
   event: true
@@ -114,12 +114,12 @@ publications:
   date_format: January 2006
   citation_style: apa
 projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
+  post_view: 0
+  publication_view: 0
+  talk_view: 0
 breadcrumb:
   page_types:
-    book: true
+    book: false
     
 # comments:
 #   provider: ''
