@@ -4,7 +4,7 @@
 widget: portfolio
 
 # This file represents a page section.
-headless: true
+headless: false
 
 Active: false
 
