@@ -61,18 +61,18 @@ imaging:
   quality: 75
   anchor: smart
 timeout: 600000
-taxonomies:
-  tag: tags
-  category: categories
-  publication_type: publication_types
-  author: authors
-related:
-  threshold: 80
-  includeNewer: true
-  toLower: true
-  indices:
-    - name: tags
-      weight: 100
-    - name: categories
-      weight: 70
+# taxonomies:
+#   tag: tags
+#   category: categories
+#   publication_type: publication_types
+#   author: authors
+# related:
+#   threshold: 80
+#   includeNewer: true
+#   toLower: true
+#   indices:
+#     - name: tags
+#       weight: 100
+#     - name: categories
+#       weight: 70
        
