@@ -6,12 +6,12 @@ title: Ryo nakamura
 superuser: true
 
 # Role/position/tagline
-role: Doctor of Philosophy student in Mathematics of Information
+role: Data scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Tenchijin Inc.
-  url: https://www.fukuoka-u.ac.jp/
+  url: https://tenchijin.co.jp/?hl=ja
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

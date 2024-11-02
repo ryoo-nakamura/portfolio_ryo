@@ -39,7 +39,7 @@ experience:
     company_logo: aist
     location: Tsukuba, Ibaraki
     date_start: '2021-05-06'
-    date_end: ''
+    date_end: '2024-03-31'
     description: 研究内容
    
      - Fomura-Driven Supervised Learning
@@ -85,7 +85,7 @@ experience:
     company_logo: tenthijin
     location: Nihonbashi, Tokyo
     date_start: '2020-08-21'
-    date_end: ''
+    date_end: '2024-03-31'
     description: ワーク内容
     
      - [ 電波資源拡大のための研究開発](https://prtimes.jp/main/html/rd/p/000000007.000045963.html)
@@ -96,6 +96,18 @@ experience:
      
      - Data science team leader
      
+  - title: Full time (Data scientist)
+    company: 株式会社天地人
+    company_url: 'https://tenchijin.co.jp'
+    company_logo: tenthijin
+    location: Nihonbashi, Tokyo
+    date_start: '2024-04-01'
+    date_end: ''
+    description: ワーク内容
+     
+     - [宇宙水道局 分析・AI診断前半](https://suido.tenchijin.co.jp/)
+     
+     - [多様なユースケースに対応するためのKa帯衛星の制御に関する研究開発](https://note.com/tenchijincompass/n/nc7787a935105)
     
 #  - title: Professor of Semiconductor Physics
 #    company: University X
