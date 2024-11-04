@@ -105,7 +105,7 @@ experience:
     date_end: ''
     description: ワーク内容
      
-     - [宇宙水道局 分析・AI診断前半](https://suido.tenchijin.co.jp/)
+     - [宇宙水道局 分析・AI診断全般](https://suido.tenchijin.co.jp/)
      
      - [多様なユースケースに対応するためのKa帯衛星の制御に関する研究開発](https://note.com/tenchijincompass/n/nc7787a935105)
     
