@@ -62,6 +62,8 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/feed/
+  display:
+    header: true
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -77,10 +79,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am Ryo Nakamura, a data scientist at Tenchijin Inc. In my work, I tackle social issues through data aggregation and machine learning related to Earth data.
+I am Ryo Nakamura, working as a data scientist at Tenchijin Inc. In my work, I tackle social problems by using Earth-related data to reduce costs and automate operations.
 
-In addition, I am involved in running SatAI.challenge, a study group community for satellite data and AI, and cvpaper.challenge. I am working to revitalize satellite data, AI, and computer vision technologies in Japan.
+Additionally, as personal activities, I organize the SatAI.challenge (a community for learning satellite data and AI) and cvpaper.challenge. Through these, I aim to boost the growth of satellite data, AI, and computer vision technologies in Japan.
 
-I obtained my Ph.D. (Science) in 2023 under the guidance of Professor Jun Fujiki (formerly Professor Masaru Tanaka) at Fukuoka University and as a research assistant (RA) under Hirokatsu Kataoka at the National Institute of Advanced Industrial Science and Technology (AIST), with experience in top-tier computer vision conference acceptances and workshop organization.
-
+Under the guidance of Professor Atsushi Fujiki (formerly Professor Masaru Tanaka) at Fukuoka University and working as a research assistant under Hiroo Kataoka at the National Institute of Advanced Industrial Science and Technology (AIST), I gained experience in having papers accepted at top computer vision conferences and organizing workshops. I obtained my Doctor of Science degree in 2023.
 
