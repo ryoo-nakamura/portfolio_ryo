@@ -27,21 +27,24 @@ body::before {
   top: 0;
   left: 0;
   z-index: -1;
-  background-image: 
-    radial-gradient(2px 2px at 20px 30px, white, rgba(0,0,0,0)),
-    radial-gradient(2px 2px at 60px 70px, white, rgba(0,0,0,0)),
-    radial-gradient(1px 1px at 50px 50px, white, rgba(0,0,0,0)),
-    radial-gradient(1px 1px at 130px 80px, white, rgba(0,0,0,0)),
-    radial-gradient(2px 2px at 90px 10px, white, rgba(0,0,0,0));
+  background-image:
+    radial-gradient(2px 2px at 20px 30px, white, rgba(0, 0, 0, 0)),
+    radial-gradient(2px 2px at 60px 70px, white, rgba(0, 0, 0, 0)),
+    radial-gradient(1px 1px at 50px 50px, white, rgba(0, 0, 0, 0)),
+    radial-gradient(1px 1px at 130px 80px, white, rgba(0, 0, 0, 0)),
+    radial-gradient(2px 2px at 90px 10px, white, rgba(0, 0, 0, 0));
   background-size: 200px 200px;
   background-repeat: repeat;
   animation: twinkle 5s infinite;
 }
 
 @keyframes twinkle {
-  0%, 100% {
+
+  0%,
+  100% {
     opacity: 0.3;
   }
+
   50% {
     opacity: 0.8;
   }
@@ -54,28 +57,35 @@ body::before {
   border-bottom: 1px solid rgba(108, 99, 255, 0.3);
 }
 
+.navbar-brand,
+.navbar-light .navbar-brand {
+  color: $star-white !important;
+}
+
 .navbar-light .navbar-nav .nav-link {
   color: $star-white !important;
-  
+
   &:hover {
     color: $space-accent !important;
   }
 }
 
 // カード要素にglassmorphism効果
+// カード要素にglassmorphism効果
+// カード要素にglassmorphism効果
 .card,
 .home-section {
-  background: rgba(26, 26, 46, 0.6) !important;
-  backdrop-filter: blur(10px);
-  border: 1px solid rgba(108, 99, 255, 0.2);
+  background: rgba(26, 26, 46, 0) !important; // 完全透明に
+  backdrop-filter: none; // ぼかしなし
+  border: 1px solid rgba(108, 99, 255, 0.1);
   border-radius: 15px;
-  box-shadow: 0 8px 32px 0 rgba(108, 99, 255, 0.1);
+  box-shadow: none; // 影も消して透明感を強調
 }
 
 // セクションのスタイル
 .home-section {
   padding: 60px 0;
-  
+
   .section-heading h1 {
     color: $space-accent;
     text-shadow: 0 0 20px rgba(108, 99, 255, 0.5);
@@ -85,7 +95,7 @@ body::before {
 // リンクのスタイル
 a {
   color: $space-light-purple;
-  
+
   &:hover {
     color: $nebula-pink;
     text-decoration: none;
@@ -97,7 +107,7 @@ a {
   background: linear-gradient(135deg, $space-accent 0%, $space-light-purple 100%);
   border: none;
   box-shadow: 0 4px 15px 0 rgba(108, 99, 255, 0.3);
-  
+
   &:hover {
     background: linear-gradient(135deg, $space-light-purple 0%, $nebula-pink 100%);
     box-shadow: 0 6px 20px 0 rgba(108, 99, 255, 0.5);
@@ -107,31 +117,52 @@ a {
 }
 
 // Experience timeline のスタイル
-.experience-item {
-  background: rgba(26, 26, 46, 0.5);
+.experience .card {
+  background: rgba(26, 26, 46, 0.9) !important; // 枠だけ透けないように (不透明度高め)
   border-left: 3px solid $space-accent;
-  padding: 20px;
+  padding: 0; // card-body has padding
   margin-bottom: 20px;
   border-radius: 10px;
   transition: all 0.3s ease;
-  
+  backdrop-filter: none;
+
   &:hover {
-    background: rgba(26, 26, 46, 0.7);
+    background: rgba(26, 26, 46, 1.0) !important;
     border-left-color: $nebula-pink;
     transform: translateX(10px);
     box-shadow: 0 4px 20px rgba(108, 99, 255, 0.3);
   }
+
+  // カード内の全てのテキストを白にする (Lightモード対策)
+  color: $star-white !important;
+
+  .card-text,
+  p,
+  ul,
+  li {
+    color: $star-white !important;
+  }
+}
+
+.exp-company,
+.exp-title {
+  color: $star-white !important;
+  font-weight: bold;
+}
+
+.exp-meta {
+  color: rgba(240, 240, 240, 0.8) !important;
 }
 
 // Publication カードのスタイル
 .pub-list-item {
-  background: rgba(26, 26, 46, 0.5);
+  background: rgba(26, 26, 46, 0.1);
   border-radius: 10px;
   padding: 15px;
   margin-bottom: 20px;
-  border: 1px solid rgba(108, 99, 255, 0.2);
+  border: 1px solid rgba(108, 99, 255, 0.1);
   transition: all 0.3s ease;
-  
+
   &:hover {
     border-color: $space-accent;
     box-shadow: 0 4px 20px rgba(108, 99, 255, 0.3);
@@ -146,7 +177,7 @@ a {
 
 // フッターのスタイル
 footer {
-  background: rgba(10, 14, 39, 0.9);
+  background: rgba(26, 26, 46, 0.1); // Achievementと同じ色 (0.1)
   border-top: 1px solid rgba(108, 99, 255, 0.3);
   color: $star-white;
 }
@@ -158,8 +189,13 @@ footer {
 }
 
 // タイトルのスタイル
-h1, h2, h3, h4, h5, h6 {
-  color: $star-white;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $star-white !important;
 }
 
 // 強調表示
@@ -181,8 +217,13 @@ mark,
 ::-webkit-scrollbar-thumb {
   background: $space-accent;
   border-radius: 5px;
-  
+
   &:hover {
     background: $space-light-purple;
   }
+}
+
+// "SEE ALL" リンクを非表示
+.see-all {
+  display: none !important;
 }
