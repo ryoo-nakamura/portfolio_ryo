@@ -2,23 +2,19 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
-# Default language
-en:
-  languageCode: en-us ja
-# ja:
-# 	languageCode: ja
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+# Default language - Japanese
+ja:
+  languageCode: ja
+  languageName: 日本語
+  weight: 1
+  title: Ryo Nakamuraのポートフォリオ
+  contentDir: content/ja
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+# English
+en:
+  languageCode: en-us
+  languageName: English
+  weight: 2
+  title: Ryo Nakamura's Portfolio
+  contentDir: content/en
+
