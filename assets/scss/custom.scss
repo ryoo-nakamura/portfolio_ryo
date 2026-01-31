@@ -70,6 +70,20 @@ body::before {
   }
 }
 
+// モバイルメニューの背景色とトグルボタン
+.navbar-collapse {
+  background: rgba(26, 26, 46, 0.95) !important;
+  border-radius: 0 0 10px 10px;
+}
+
+.navbar-toggler {
+  border-color: rgba(108, 99, 255, 0.5) !important;
+
+  .navbar-toggler-icon {
+    filter: invert(1); // アイコンを白くする
+  }
+}
+
 // カード要素にglassmorphism効果
 // カード要素にglassmorphism効果
 // カード要素にglassmorphism効果
