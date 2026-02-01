@@ -83,5 +83,5 @@ I am Ryo Nakamura, working as a data scientist at Tenchijin Inc. In my work, I t
 
 Additionally, as personal activities, I organize the SatAI.challenge (a community for learning satellite data and AI) and cvpaper.challenge. Through these, I aim to boost the growth of satellite data, AI, and computer vision technologies in Japan.
 
-Under the guidance of Professor Atsushi Fujiki (formerly Professor Masaru Tanaka) at Fukuoka University and working as a research assistant under Hiroo Kataoka at the National Institute of Advanced Industrial Science and Technology (AIST), I gained experience in having papers accepted at top computer vision conferences and organizing workshops. I obtained my Doctor of Science degree in 2023.
+Under the guidance of Professor Atsushi Fujiki (formerly Professor Masaru Tanaka) at Fukuoka University and working as a research assistant under Hirokatsu Kataoka at the National Institute of Advanced Industrial Science and Technology (AIST), I gained experience in having papers accepted at top computer vision conferences and organizing workshops. I obtained my Doctor of Science degree in 2023.
 

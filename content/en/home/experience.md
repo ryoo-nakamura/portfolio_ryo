@@ -102,7 +102,7 @@ experience:
     date_start: '2024-09-01'
     date_end: ''
     description: |2-
-      Work
+      Archiving Japanese Materials (You can check the materials on the following links)
       - [SatAI.challenge HP](https://staff.aist.go.jp/shinohara.takayuki/satai/index.html)
       - [Speaker deck](https://speakerdeck.com/satai)
       - [Youtube](https://www.youtube.com/@SatAI.challenge)

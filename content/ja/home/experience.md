@@ -111,7 +111,7 @@ experience:
     date_start: '2024-09-01'
     date_end: ''
     description: |2-
-      ワーク内容
+      日本の資料のアーカイブ化(下記のリンクから資料を閲覧することができます。)
       - [SatAI.challenge HP](https://staff.aist.go.jp/shinohara.takayuki/satai/index.html)
       - [Speaker deck](https://speakerdeck.com/satai)
       - [Youtube](https://www.youtube.com/@SatAI.challenge)
