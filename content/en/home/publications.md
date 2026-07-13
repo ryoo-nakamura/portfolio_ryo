@@ -62,6 +62,7 @@ design:
   <div class="col-md-6">
     <h4 style="margin-bottom: 0px;">・Scaling Backwards: Minimal Synthetic Pre-training?</h4>
     <span style="font-size: 80%">Ryo Nakamura 1 *, Ryu Tadokoro 1 *, Ryosuke Yamada 1, Yuki M. Asano 2, Iro Laina 3, Christian Rupprecht 3, Nakamasa Inoue 4, Rio Yokota 4, Hirokatsu Kataoka 1 (1. AIST, 2. University of Amsterdam, 3. University of Oxford, 4. Tokyo Institute of Technology, * These authors contributed equally), European Conference on Computer Vision 2024 (ECCV 2024) </span>
+    <br><a class="btn btn-outline-primary btn-page-header btn-sm mt-1" href="https://arxiv.org/abs/2408.00677" target="_blank" rel="noopener"><i class="ai ai-arxiv mr-1"></i>Preprint</a>
   </div>
 </div>
 
@@ -74,6 +75,7 @@ design:
   <div class="col-md-6">
     <h4 style="margin-bottom: 0px;">・On the Relationship Between Double Descent of CNNs and Shape/Texture Bias Under Learning Process</h4>
     <span style="font-size: 80%">Shun Iwase 1, Eisaku Maeda 1, Nakamasa Inoue 2, Hirokatsu Kataoka 3, Ryo Nakamura 3, Rio Yokota 2, Shuya Takahashi 1 (1. Tokyo Denki Univ., 2. Tokyo Institute of Technology, 3. AIST), International Conference on Pattern Recognition 2024 (ICPR 2024) </span>
+    <br><a class="btn btn-outline-primary btn-page-header btn-sm mt-1" href="https://arxiv.org/abs/2503.02302" target="_blank" rel="noopener"><i class="ai ai-arxiv mr-1"></i>Preprint</a>
   </div>
 </div>
 
@@ -98,6 +100,7 @@ design:
   <div class="col-md-6">
     <h4 style="margin-bottom: 0px;">・Primitive Geometry Segment Pre-training for 3D Medical Image Segmentation</h4>
     <span style="font-size: 80%">Ryu Tadokoro1,2, Ryosuke Yamada 2,3, Kodai Nakashima 2,3, Ryo Nakamura2, Hirokatsu Kataoka 2 (1. Tohoku Univ., 2. AIST, 3. Tsukuba Univ.), British Machine Vision Conference 2023 (BMVC 2023) </span>
+    <br><a class="btn btn-outline-primary btn-page-header btn-sm mt-1" href="https://arxiv.org/abs/2401.03665" target="_blank" rel="noopener"><i class="ai ai-arxiv mr-1"></i>Preprint</a>
   </div>
 </div>
 
@@ -110,6 +113,7 @@ design:
   <div class="col-md-6">
     <h4 style="margin-bottom: 0px;">・Pre-training Vision Transformers with Very Limited Synthesized Images</h4>
     <span style="font-size: 80%">Ryo Nakamura1,2, Hirokatsu Kataoka 1, Sora Takashima 3, MARTINEZ-NORIEGA Edgar Josafat 3, Rio Yokota 3, Nakamasa Inoue3 (1. AIST, 2. Fukuoka Univ., 3. Tokyo Institute of Technology), International Conference on Computer Vision 2023 (ICCV 2023)</span>
+    <br><a class="btn btn-outline-primary btn-page-header btn-sm mt-1" href="https://arxiv.org/abs/2307.14710" target="_blank" rel="noopener"><i class="ai ai-arxiv mr-1"></i>Preprint</a>
   </div>
 </div>
 
@@ -122,6 +126,7 @@ design:
   <div class="col-md-6">
     <h4 style="margin-bottom: 0px;">・Traffic Incident Database with Multiple Labels Including Various Perspective Environmental Information</h4>
     <span style="font-size: 80%">Shota Nishiyama, Takuma Saito, Ryo Nakamura, Go Ohtani, Hirokatsu Kataoka, Kensho Hara (AIST), IEEE/RSJ International Conference on Intelligent Robots and Systems 2023 (IROS 2023)</span>
+    <br><a class="btn btn-outline-primary btn-page-header btn-sm mt-1" href="https://arxiv.org/abs/2312.10737" target="_blank" rel="noopener"><i class="ai ai-arxiv mr-1"></i>Preprint</a>
   </div>
 </div>
 
