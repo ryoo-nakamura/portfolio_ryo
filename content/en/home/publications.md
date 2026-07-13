@@ -50,6 +50,7 @@ design:
   <div class="col-md-6">
     <h4 style="margin-bottom: 0px;">・Simple variational inference based on minimizing Kullback–Leibler divergence</h4>
     <span style="font-size: 80%">Ryo Nakamura 1, Tomooki Yuasa 2, Takafumi Amaba 1, Jun Fujiki 1 (1. Fukuoka Univ., 2. Faculty of Economics and Business Administration), Information Geometry </span>
+    <br><a class="btn btn-outline-primary btn-page-header btn-sm mt-1" href="https://doi.org/10.1007/s41884-024-00151-2" target="_blank" rel="noopener"><i class="fas fa-file-pdf mr-1"></i>Paper</a>
   </div>
 </div>
 
@@ -88,6 +89,7 @@ design:
   <div class="col-md-6">
     <h4 style="margin-bottom: 0px;">・Pseudo-outlier synthesis using q-Gaussian distributions for out-of-distribution detection</h4>
     <span style="font-size: 80%">Ryo Nakamura 1,2, Ryu Tadokoro 3, Eisuke Yamagata 4, Yusuke Kondo 5, Kensho Hara 1, Hirokatsu Kataoka 1, Nakamasa Inoue 3 (1. AIST, 2. Fukuoka Univ., 3. Tohoku Univ., 4. Tokyo Univ., 5. Tokyo Institute of Technology), International Conference on Acoustics, Speech, and Signal Processing 2023 (ICASSP 2023) </span>
+    <br><a class="btn btn-outline-primary btn-page-header btn-sm mt-1" href="https://doi.org/10.1109/ICASSP48485.2024.10448313" target="_blank" rel="noopener"><i class="fas fa-file-pdf mr-1"></i>Paper</a>
   </div>
 </div>
 
@@ -139,6 +141,7 @@ design:
   <div class="col-md-6">
     <h4 style="margin-bottom: 0px;">・Rough Target Region Extraction with Background Learning</h4>
     <span style="font-size: 80%">Ryo Nakamura, Yoshiaki Ueda, Masaru Tanaka, Jun Fijiki (Fukuoka University), International Workshop on Frontiers of Computer Vision 2023 (IW-FCV2023), 2023/2</span>
+    <br><a class="btn btn-outline-primary btn-page-header btn-sm mt-1" href="https://link.springer.com/chapter/10.1007/978-981-99-4914-4_3" target="_blank" rel="noopener"><i class="fas fa-file-pdf mr-1"></i>Paper</a>
   </div>
 </div>
 
