@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Ryo nakamura
+title: 中村 凌 (Ryo Nakamura)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Data scientist
+role: データサイエンティスト / 研究員
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://tenchijin.co.jp/?hl=ja
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 機械学習、コンピュータビジョン、情報幾何、リモートセンシングの研究に従事しています。
 
 # Interests to show in About widget
 interests:
@@ -77,7 +77,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-株式会社天地人でデータサイエンティストを務めている中村凌です。業務では、地球に関するデータに関するデータ集計および機械学習の業務を通して社会課題に取り組んでいます。
+株式会社天地人でデータサイエンティストを務めている中村凌 (Ryo Nakamura) です。業務では、地球に関するデータに関するデータ集計および機械学習の業務を通して社会課題に取り組んでいます。
 
 その他に個人的な活動としてSatAI.challengeという衛星データとAIの勉強会コミュニティとcvpaper.challengeの運営に携わっており、日本分野の衛星データとAIとCVの技術を活性化すべく活動しています。
 

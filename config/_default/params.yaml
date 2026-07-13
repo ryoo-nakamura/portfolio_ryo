@@ -12,9 +12,9 @@ font_size: L
 
 # SEO
 site_type: Person, Portfolio
-local_business_type: 'machine learning resercher, deta scientist'
-org_name: 'Fukuoka University,  AIST, Tenchijin'
-description: 'Ryo Nakamura portfolio website'
+local_business_type: 'Machine Learning Researcher, Data Scientist, Computer Vision Researcher'
+org_name: 'Tenchijin Inc., AIST, Fukuoka University'
+description: '中村凌（Ryo Nakamura）のポートフォリオサイト。株式会社天地人 データサイエンティスト・コンピュータビジョン研究者。ECCV 2024・ICCV 2023・ICPR 2024など国際トップ会議に論文採択。機械学習・コンピュータビジョン・情報幾何・衛星データ解析が専門。福岡大学博士（理学）。SatAI.challenge・cvpaper.challenge 運営。'
 twitter: 'https://twitter.com/ryo123456789098'
 
 # Contact (edit or remove options as required)

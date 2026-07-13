@@ -79,7 +79,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am Ryo Nakamura, working as a data scientist at Tenchijin Inc. In my work, I tackle social problems by using Earth-related data to reduce costs and automate operations.
+I am Ryo Nakamura (中村 凌), working as a data scientist at Tenchijin Inc. In my work, I tackle social problems by using Earth-related data to reduce costs and automate operations.
 
 Additionally, as personal activities, I organize the SatAI.challenge (a community for learning satellite data and AI) and cvpaper.challenge. Through these, I aim to boost the growth of satellite data, AI, and computer vision technologies in Japan.
 
