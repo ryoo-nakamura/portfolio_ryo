@@ -39,7 +39,7 @@ design:
   view: 2
   columns: "1"
 ---
-## Achievement
+## Publication
 
 <hr style="margin-top: 5px; margin-bottom: 15px;">
 
