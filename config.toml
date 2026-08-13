@@ -1,7 +1,7 @@
 # baseURL = "http://example.org/"
 baseURL = "https://ryo-nakamura.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "中村 凌 | Ryo Nakamura"
 theme = "starter-academic"
 # publishDir = "docs"
 canonifyurls = true
@@ -9,7 +9,7 @@ canonifyurls = true
 name = "Academic"
 license = "MIT"
 licenselink = "https://github.com/wowchemy/starter-academic/blob/master/LICENSE.md"
-description = "Use the website builder to easily build your site with 50+ widgets and deploy with one click! Fully customize your site with themes, plugins, and language packs."
+description = "中村凌（Ryo Nakamura）のポートフォリオサイト。株式会社天地人 データサイエンティスト・コンピュータビジョン研究者。"
 homepage = "https://wowchemy.com/templates/"
 min_version = "0.81"
 tags = ["widgets",
