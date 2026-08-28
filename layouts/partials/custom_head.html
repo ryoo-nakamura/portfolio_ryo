@@ -1,0 +1,31 @@
+{{/* ホームページにのみ Person 構造化データ(JSON-LD)を出力し、
+     Google の人物エンティティ認識・ナレッジパネル生成を助ける。
+     SNS等を追加する場合は sameAs に本人プロフィールURLを足す。 */}}
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://ryo-nakamura.netlify.app/#person",
+  "name": "中村 凌",
+  "alternateName": "Ryo Nakamura",
+  "url": "https://ryo-nakamura.netlify.app/",
+  "image": {{ partial "functions/get_logo_url" . }},
+  "jobTitle": "Data Scientist",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Tenchijin Inc.",
+    "url": "https://tenchijin.co.jp/"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Fukuoka University"
+  },
+  "knowsAbout": ["Machine Learning", "Computer Vision", "Information Geometry", "Remote Sensing", "Satellite Data Analysis"],
+  "sameAs": [
+    "https://twitter.com/ryo123456789098",
+    "https://github.com/ryoo-nakamura"
+  ]
+}
+</script>
+{{ end }}
