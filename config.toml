@@ -2,7 +2,6 @@
 baseURL = "https://ryo-nakamura.netlify.app/"
 languageCode = "en-us"
 title = "中村 凌 | Ryo Nakamura"
-theme = "starter-academic"
 # publishDir = "docs"
 canonifyurls = true
 
