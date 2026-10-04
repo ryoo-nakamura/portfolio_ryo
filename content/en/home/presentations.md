@@ -21,7 +21,7 @@ design:
 ---
 
 #### ・MM-OVSeg: Multimodal Optical–SAR Fusion for Open-Vocabulary Segmentation in Remote Sensing
-<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (Tenchijin Inc.), 28th SatAI.challenge Study Session (paper review: CVPR 2026) (in Japanese), 2026/6/13</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/mm-ovseg-multimodal-optical-sar-fusion-for-open-vocabulary-segmentation-in-remote-sensing" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a>
+<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (Tenchijin Inc.), 28th SatAI.challenge Study Session (paper review: CVPR 2026) (in Japanese), 2026/6/13</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/mm-ovseg-multimodal-optical-sar-fusion-for-open-vocabulary-segmentation-in-remote-sensing" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=J8GbAbHVcQ8" target="_blank" rel="noopener"><i class="fas fa-video mr-1"></i>Video</a>
 
 ---
 
@@ -31,7 +31,7 @@ design:
 ---
 
 #### ・YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection
-<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (Tenchijin Inc.), 24th SatAI.challenge Study Session (in Japanese), 2026/3/3</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/yolo26-key-architectural-enhancements-and-performance-benchmarking-for-real-time-object-detection" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a>
+<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (Tenchijin Inc.), 24th SatAI.challenge Study Session (in Japanese), 2026/3/3</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/yolo26-key-architectural-enhancements-and-performance-benchmarking-for-real-time-object-detection" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=nM69UswE7wE" target="_blank" rel="noopener"><i class="fas fa-video mr-1"></i>Video</a>
 
 ---
 
@@ -46,47 +46,47 @@ design:
 ---
 
 #### ・Earth AI: Unlocking Geospatial Insights with Foundation Models and Cross-Modal Reasoning
-<span style="font-size: 80%"><strong>Ryo Nakamura</strong> et al., 22nd SatAI.challenge Study Session (in Japanese), 2025/11/29</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/earth-ai-unlocking-geospatial-insights-with-foundation-models-and-cross-modal-reasoning" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a>
+<span style="font-size: 80%"><strong>Ryo Nakamura</strong> et al., 22nd SatAI.challenge Study Session (in Japanese), 2025/11/29</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/earth-ai-unlocking-geospatial-insights-with-foundation-models-and-cross-modal-reasoning" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=3Y5fQODUOh4" target="_blank" rel="noopener"><i class="fas fa-video mr-1"></i>Video</a>
 
 ---
 
 #### ・LLM-Assisted Semantic Guidance for Sparsely Annotated Remote Sensing Object Detection
-<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (Tenchijin Inc.), 20th SatAI.challenge Study Session (paper review: ICCV 2025) (in Japanese), 2025/11/9</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/llm-assisted-semantic-guidance-for-sparsely-annotated-remote-sensing-object-detection" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a>
+<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (Tenchijin Inc.), 20th SatAI.challenge Study Session (paper review: ICCV 2025) (in Japanese), 2025/11/9</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/llm-assisted-semantic-guidance-for-sparsely-annotated-remote-sensing-object-detection" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=7Z1YBOnmx3s" target="_blank" rel="noopener"><i class="fas fa-video mr-1"></i>Video</a>
 
 ---
 
 #### ・Remote sensing × Multi-modal meta survey
-<span style="font-size: 80%"><strong>Ryo Nakamura</strong> et al., SatAI.challenge (in Japanese), 2025/9/25</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/remote-sensing-x-multi-modal-meta-survey" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a>
+<span style="font-size: 80%"><strong>Ryo Nakamura</strong> et al., SatAI.challenge (in Japanese), 2025/9/25</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/remote-sensing-x-multi-modal-meta-survey" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=5682nU1rV9k" target="_blank" rel="noopener"><i class="fas fa-video mr-1"></i>Video</a>
 
 ---
 
 #### ・AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data
-<span style="font-size: 80%"><strong>Ryo Nakamura</strong> et al., 16th SatAI.challenge Study Session (in Japanese), 2025/9/1</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/alphaearth-foundations-an-embedding-field-model-for-accurate-and-efficient-global-mapping-from-sparse-label-data" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a>
+<span style="font-size: 80%"><strong>Ryo Nakamura</strong> et al., 16th SatAI.challenge Study Session (in Japanese), 2025/9/1</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/alphaearth-foundations-an-embedding-field-model-for-accurate-and-efficient-global-mapping-from-sparse-label-data" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=4zNAluNuONo" target="_blank" rel="noopener"><i class="fas fa-video mr-1"></i>Video</a>
 
 ---
 
 #### ・SegEarth-OV: Towards Training-Free Open-Vocabulary Segmentation for Remote Sensing Images
-<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (Tenchijin Inc.), 15th SatAI.challenge Study Session (paper review: CVPR 2025) (in Japanese), 2025/7/27</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/segearth-ov-towards-training-free-open-vocabulary-segmentation-for-remote-sensing-images" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a>
+<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (Tenchijin Inc.), 15th SatAI.challenge Study Session (paper review: CVPR 2025) (in Japanese), 2025/7/27</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/segearth-ov-towards-training-free-open-vocabulary-segmentation-for-remote-sensing-images" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=Usv94uvjL50" target="_blank" rel="noopener"><i class="fas fa-video mr-1"></i>Video</a>
 
 ---
 
 #### ・Self-supervised audiovisual representation learning for remote sensing data
-<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (Tenchijin Inc.), SatAI.challenge Study Session (in Japanese), 2025/4/19</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/self-supervised-audiovisual-representation-learning-for-remote-sensing-data" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a>
+<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (Tenchijin Inc.), SatAI.challenge Study Session (in Japanese), 2025/4/19</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/self-supervised-audiovisual-representation-learning-for-remote-sensing-data" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=Ay-JqiDjTgM" target="_blank" rel="noopener"><i class="fas fa-video mr-1"></i>Video</a>
 
 ---
 
 #### ・Scale-Aware Recognition in Satellite images Under Resource Constraints
-<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (Tenchijin Inc.), 8th SatAI.challenge Study Session (paper review: ICLR 2025) (in Japanese), 2025/3/6</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/scale-aware-recognition-in-satellite-images-under-resource-constraints" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a>
+<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (Tenchijin Inc.), 8th SatAI.challenge Study Session (paper review: ICLR 2025) (in Japanese), 2025/3/6</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/scale-aware-recognition-in-satellite-images-under-resource-constraints" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=HQoNQ_y_8-I" target="_blank" rel="noopener"><i class="fas fa-video mr-1"></i>Video</a>
 
 ---
 
 #### ・Segment Any Change
-<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (Tenchijin Inc.), 3rd SatAI.challenge Study Session (in Japanese), 2024/12/8</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/segment-any-change" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a>
+<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (Tenchijin Inc.), 3rd SatAI.challenge Study Session (in Japanese), 2024/12/8</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/segment-any-change" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=fsAjEKCIWes" target="_blank" rel="noopener"><i class="fas fa-video mr-1"></i>Video</a>
 
 ---
 
 #### ・Composed image retrieval for remote sensing
-<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (Tenchijin Inc.), 1st SatAI.challenge Study Session (paper review: IGARSS 2024) (in Japanese), 2024/11/2</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/composed-image-retrieval-for-remote-sensing" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a>
+<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (Tenchijin Inc.), 1st SatAI.challenge Study Session (paper review: IGARSS 2024) (in Japanese), 2024/11/2</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://speakerdeck.com/satai/composed-image-retrieval-for-remote-sensing" target="_blank" rel="noopener"><i class="fab fa-speaker-deck mr-1"></i>Slides</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=McsqRdyhB5g" target="_blank" rel="noopener"><i class="fas fa-video mr-1"></i>Video</a>
 
 ---
 
