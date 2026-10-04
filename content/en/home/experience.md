@@ -60,6 +60,14 @@ experience:
     company_logo: tenthijin
     location: Nihonbashi, Tokyo
     date_start: '2024-04-01'
+    date_end: '2026-04-30'
+
+  - title: Full Time (AI Tech Lead)
+    company: Tenchijin Inc.
+    company_url: 'https://tenchijin.co.jp'
+    company_logo: tenthijin
+    location: Nihonbashi, Tokyo
+    date_start: '2026-05-01'
     date_end: ''
 
   - title: SatAI.challenge PI

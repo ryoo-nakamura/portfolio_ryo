@@ -6,7 +6,7 @@ title: Ryo nakamura
 superuser: true
 
 # Role/position/tagline
-role: Data scientist
+role: AI Tech Lead
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -79,7 +79,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-株式会社天地人でデータサイエンティストを務めている中村凌です。業務では、地球に関するデータを用いて業務の低コスト化・自動化を通して社会課題への解決に取り組んでいます。
+株式会社天地人でAI Tech Leadを務めている中村凌です。業務では、地球に関するデータを用いて業務の低コスト化・自動化を通して社会課題への解決に取り組んでいます。
 
 その他に個人的な活動としてSatAI.challengeという衛星データとAIの勉強会コミュニティとcvpaper.challengeの運営に携わっており、日本分野の衛星データとAIとCVの技術を活性化すべく活動しています。
 
