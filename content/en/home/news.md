@@ -19,5 +19,5 @@ design:
   columns: "2"
 ---
 
-- **[2026.06]** Presented the results of joint research with Aoki Lab at SSII2026. [Link](https://pub.confit.atlas.jp/ja/event/ssii2026/presentation/IS2-05)
+- **[2026.06]** Presented the results of joint research with Aoki Lab at SSII2026. <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://pub.confit.atlas.jp/ja/event/ssii2026/presentation/IS2-05" target="_blank" rel="noopener"><i class="fas fa-chalkboard-teacher mr-1"></i>Presentation</a>
 - **[2026.05]** Promoted to AI Tech Lead.
