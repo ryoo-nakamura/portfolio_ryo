@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Doctor of Philosophy (Mathematics of Information)
+  - course: Doctor of Science (Mathematics of Information)
     institution: Fukuoka University 
     year: 2024
 
@@ -83,5 +83,5 @@ I am Ryo Nakamura (中村 凌), working as an AI Tech Lead at Tenchijin Inc. In 
 
 Additionally, as personal activities, I organize the SatAI.challenge (a community for learning satellite data and AI) and cvpaper.challenge. Through these, I aim to boost the growth of satellite data, AI, and computer vision technologies in Japan.
 
-Under the supervision of Professor Jun Fujiki (formerly Professor Masaru Tanaka) at Fukuoka University and working as a research assistant under Hirokatsu Kataoka at the National Institute of Advanced Industrial Science and Technology (AIST), I gained experience in having papers accepted at top computer vision conferences and organizing workshops. I obtained my Doctor of Science degree in 2023.
+Under the supervision of Professor Jun Fujiki (formerly Professor Masaru Tanaka) at Fukuoka University and working as a research assistant under Hirokatsu Kataoka at the National Institute of Advanced Industrial Science and Technology (AIST), I gained experience in having papers accepted at top computer vision conferences and organizing workshops. I obtained my Doctor of Science degree in March 2024.
 

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ryo nakamura
+title: Ryo Nakamura
 
 # Is this the primary user of the site?
 superuser: true
@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Doctor of Philosophy student (Mathematics of Information)
+  - course: Doctor of Science (Mathematics of Information)
     institution: Fukuoka University 
     year: 2024
 
