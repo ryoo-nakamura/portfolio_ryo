@@ -12,6 +12,7 @@ role: AI Tech Lead
 organizations:
 - name: Tenchijin Inc.
   url: https://tenchijin.co.jp/?hl=en
+- name: 宇宙AIニキ
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning, computer vision, information geometry, and remote sensing.
