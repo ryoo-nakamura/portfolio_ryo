@@ -61,7 +61,7 @@ social:
   link: https://github.com/ryoo-nakamura?tab=repositories
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/feed/
+  link: https://www.linkedin.com/in/ryo-nakamura-b77486263/
   display:
     header: true
 
