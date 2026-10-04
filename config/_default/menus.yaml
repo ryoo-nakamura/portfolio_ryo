@@ -22,6 +22,9 @@ main:
   - name: Achievement
     url: '#publications'
     weight: 40
+  - name: Media
+    url: '#media'
+    weight: 50
 #   - name: Courses
 #     url: courses/
 #     weight: 60
