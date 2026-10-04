@@ -90,6 +90,46 @@ design:
 
 ---
 
+#### ・CVPR 2023 速報
+<span style="font-size: 80%">片岡 裕雄 ほか（<strong>中村 凌</strong> を含む全19名），cvpaper.challenge，2023/6/22</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://hirokatsukataoka.net/temp/presen/230622CVPR%202023%20Report%20(Release%20Ver.).pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf mr-1"></i>Slides</a>
+
+---
+
+#### ・ECCV2022 網羅的サーベイ
+<span style="font-size: 80%"><strong>中村 凌</strong> ほか cvpaper.challenge メンバー，cvpaper.challenge（論文サマリ），2022/10</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://xpaperchallenge.org/cv/survey/eccv2022_summaries/" target="_blank" rel="noopener"><i class="fas fa-globe mr-1"></i>Website</a>
+
+---
+
+#### ・【メタサーベイ】基盤モデル / Foundation Models
+<span style="font-size: 80%">高島 空良，<strong>中村 凌</strong>，山田 亮佑，片岡 裕雄，cvpaper.challenge，2022/8/18</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.slideshare.net/cvpaperchallenge/foundation-models" target="_blank" rel="noopener"><i class="fab fa-slideshare mr-1"></i>Slides</a>
+
+---
+
+#### ・【メタサーベイ】数式ドリブン教師あり学習
+<span style="font-size: 80%">大西 達也，田所 龍，<strong>中村 凌</strong>，山田 亮佑，速水 亮，中嶋 航大，片岡 裕雄，cvpaper.challenge，2022/6/9</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.slideshare.net/cvpaperchallenge/ss-251948753" target="_blank" rel="noopener"><i class="fab fa-slideshare mr-1"></i>Slides</a>
+
+---
+
+#### ・CVPR2022 網羅的サーベイ
+<span style="font-size: 80%"><strong>中村 凌</strong> ほか cvpaper.challenge メンバー，cvpaper.challenge（論文サマリ），2022/6</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://xpaperchallenge.org/cv/survey/cvpr2022_summaries/" target="_blank" rel="noopener"><i class="fas fa-globe mr-1"></i>Website</a>
+
+---
+
+#### ・研究効率化Tips Ver.2
+<span style="font-size: 80%"><strong>中村 凌</strong>（監修：片岡 裕雄），cvpaper.challenge，2021/10/19</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.slideshare.net/cvpaperchallenge/tips-ver2-250474910" target="_blank" rel="noopener"><i class="fab fa-slideshare mr-1"></i>Slides</a>
+
+---
+
+#### ・High-impact Papers in Computer Vision: 歴史を変えた/トレンドを創る論文
+<span style="font-size: 80%">片岡 裕雄 ほか（<strong>中村 凌</strong> を含む全12名），cvpaper.challenge，2021/4/30</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.slideshare.net/cvpaperchallenge/highimpact-papers-in-computer-vision" target="_blank" rel="noopener"><i class="fab fa-slideshare mr-1"></i>Slides</a>
+
+---
+
+#### ・cvpaper.challenge 研究効率化Tips
+<span style="font-size: 80%"><strong>中村 凌</strong>（監修：片岡 裕雄），cvpaper.challenge，2021/1/27</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.slideshare.net/cvpaperchallenge/cvpaperchallenge-tips-241914101" target="_blank" rel="noopener"><i class="fab fa-slideshare mr-1"></i>Slides</a>
+
+---
+
 </div>
 
 ### 🎓 学会発表

@@ -90,6 +90,46 @@ design:
 
 ---
 
+#### ・CVPR 2023 Quick Report
+<span style="font-size: 80%">19 authors including <strong>Ryo Nakamura</strong>, cvpaper.challenge (in Japanese), 2023/6/22</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://hirokatsukataoka.net/temp/presen/230622CVPR%202023%20Report%20(Release%20Ver.).pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf mr-1"></i>Slides</a>
+
+---
+
+#### ・ECCV 2022 Comprehensive Survey
+<span style="font-size: 80%"><strong>Ryo Nakamura</strong> and cvpaper.challenge members, cvpaper.challenge (paper summaries) (in Japanese), 2022/10</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://xpaperchallenge.org/cv/survey/eccv2022_summaries/" target="_blank" rel="noopener"><i class="fas fa-globe mr-1"></i>Website</a>
+
+---
+
+#### ・Meta Survey: Foundation Models
+<span style="font-size: 80%">Sora Takashima, <strong>Ryo Nakamura</strong>, Ryosuke Yamada, Hirokatsu Kataoka, cvpaper.challenge (in Japanese), 2022/8/18</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.slideshare.net/cvpaperchallenge/foundation-models" target="_blank" rel="noopener"><i class="fab fa-slideshare mr-1"></i>Slides</a>
+
+---
+
+#### ・Meta Survey: Formula-Driven Supervised Learning
+<span style="font-size: 80%">7 authors including <strong>Ryo Nakamura</strong>, cvpaper.challenge (in Japanese), 2022/6/9</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.slideshare.net/cvpaperchallenge/ss-251948753" target="_blank" rel="noopener"><i class="fab fa-slideshare mr-1"></i>Slides</a>
+
+---
+
+#### ・CVPR 2022 Comprehensive Survey
+<span style="font-size: 80%"><strong>Ryo Nakamura</strong> and cvpaper.challenge members, cvpaper.challenge (paper summaries) (in Japanese), 2022/6</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://xpaperchallenge.org/cv/survey/cvpr2022_summaries/" target="_blank" rel="noopener"><i class="fas fa-globe mr-1"></i>Website</a>
+
+---
+
+#### ・Research Efficiency Tips Ver.2
+<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (supervised by Hirokatsu Kataoka), cvpaper.challenge (in Japanese), 2021/10/19</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.slideshare.net/cvpaperchallenge/tips-ver2-250474910" target="_blank" rel="noopener"><i class="fab fa-slideshare mr-1"></i>Slides</a>
+
+---
+
+#### ・High-impact Papers in Computer Vision
+<span style="font-size: 80%">12 authors including <strong>Ryo Nakamura</strong>, cvpaper.challenge (in Japanese), 2021/4/30</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.slideshare.net/cvpaperchallenge/highimpact-papers-in-computer-vision" target="_blank" rel="noopener"><i class="fab fa-slideshare mr-1"></i>Slides</a>
+
+---
+
+#### ・Research Efficiency Tips
+<span style="font-size: 80%"><strong>Ryo Nakamura</strong> (supervised by Hirokatsu Kataoka), cvpaper.challenge (in Japanese), 2021/1/27</span> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.slideshare.net/cvpaperchallenge/cvpaperchallenge-tips-241914101" target="_blank" rel="noopener"><i class="fab fa-slideshare mr-1"></i>Slides</a>
+
+---
+
 </div>
 
 ### 🎓 Conference Presentations
