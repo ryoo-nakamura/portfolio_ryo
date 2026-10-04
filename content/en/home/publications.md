@@ -39,7 +39,7 @@ design:
   view: 2
   columns: "1"
 ---
-## Publication
+## 📄 Publication
 
 <hr style="margin-top: 5px; margin-bottom: 15px;">
 
@@ -194,7 +194,7 @@ design:
 
 <br />
 
-## Presentation
+## 🎤 Presentation
 
 #### ・Pre-training Vision Transformers with Limited Synthesized Images
 <span style="font-size: 80%"><strong>Ryo Nakamura</strong>1,2, Hirokatsu Kataoka1, Sora Takashima3, MARTINEZ-NORIEGA Edgar Josafat3, Rio Yokota3, Nakamasa Inoue3 (1. National Institute of Advanced Industrial Science and Technology, 2. Fukuoka University, 3. Tokyo Institute of Technology), 29th Symposium on Sensing via Image Information (SSII2023), 2023/6/14, **Interactive Session Audience Award**</span>
