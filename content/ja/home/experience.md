@@ -105,14 +105,14 @@ experience:
 
   - title: SatAI.challenge PI
     company: SatAI.challenge
-    company_url: 'https://staff.aist.go.jp/shinohara.takayuki/satai/index.html'
+    company_url: 'https://www.sataichallenge.org/'
     company_logo: satai
     location: Online
     date_start: '2024-09-01'
     date_end: ''
     description: |2-
       日本の資料のアーカイブ化(下記のリンクから資料を閲覧することができます。)
-      - [SatAI.challenge HP](https://staff.aist.go.jp/shinohara.takayuki/satai/index.html)
+      - [SatAI.challenge HP](https://www.sataichallenge.org/)
       - [Speaker deck](https://speakerdeck.com/satai)
       - [Youtube](https://www.youtube.com/@SatAI.challenge)
 
