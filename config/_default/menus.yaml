@@ -31,6 +31,9 @@ main:
   - name: Books
     url: '#books'
     weight: 60
+  - name: Organizer
+    url: '#organizer'
+    weight: 70
 #   - name: Courses
 #     url: courses/
 #     weight: 60
