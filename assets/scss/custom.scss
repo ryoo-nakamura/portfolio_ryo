@@ -241,3 +241,64 @@ mark,
 .see-all {
   display: none !important;
 }
+
+// メニューを 1200px 未満で折りたたむ（layouts/partials/navbar.html の navbar-expand-xl と対応）
+// テーマは 992px 未満にだけ折りたたみ時の調整を持つため、992〜1199px にも同じ調整を当てる
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  html {
+    scroll-padding-top: 50px;
+  }
+
+  body {
+    margin-top: 50px;
+  }
+
+  .page-wrapper,
+  .home-section.fullscreen {
+    min-height: calc(100vh - 50px);
+  }
+
+  .navbar {
+    height: 50px;
+  }
+
+  .i18n-dropdown .nav-link::after {
+    content: none;
+  }
+
+  .navbar-brand-mobile-wrapper {
+    position: absolute;
+    left: 0;
+    right: 0;
+  }
+
+  .navbar-brand {
+    margin: 0 auto;
+  }
+
+  .navbar-brand img {
+    max-height: 40px;
+  }
+
+  #navbar-main .main-menu-item {
+    text-align: left !important;
+    padding-left: 0;
+  }
+
+  .navbar-collapse {
+    z-index: 1031 !important;
+    position: absolute;
+    left: 0;
+    top: 50px;
+    width: 100%;
+    text-align: center !important;
+  }
+
+  #navbar-main .main-menu-item .nav-item {
+    padding: 10px 15px !important;
+  }
+
+  #navbar-main .main-menu-item .nav-item .nav-link {
+    padding: 5px 15px !important;
+  }
+}
