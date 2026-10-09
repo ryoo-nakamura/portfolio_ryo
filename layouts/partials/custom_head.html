@@ -7,8 +7,13 @@
   "@context": "https://schema.org",
   "@type": "Person",
   "@id": "https://ryo-nakamura.netlify.app/#person",
+  {{- if eq .Lang "en" }}
+  "name": "Ryo Nakamura",
+  "alternateName": "中村 凌",
+  {{- else }}
   "name": "中村 凌",
   "alternateName": "Ryo Nakamura",
+  {{- end }}
   "url": "https://ryo-nakamura.netlify.app/",
   "image": {{ partial "functions/get_logo_url" . }},
   "jobTitle": "AI Tech Lead",
