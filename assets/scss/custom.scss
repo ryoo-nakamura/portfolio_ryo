@@ -302,3 +302,10 @@ mark,
     padding: 5px 15px !important;
   }
 }
+
+// プロフィールの名前を h1 にしたため、テーマの h2 と同じ見た目に固定（layouts/partials/widgets/about.html と対応）
+.portrait-title h1 {
+  font-size: 1.75em;
+  font-weight: 300;
+  margin: 20px 0 10px 0;
+}
