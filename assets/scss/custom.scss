@@ -262,20 +262,6 @@ mark,
     height: 50px;
   }
 
-  .i18n-dropdown .nav-link::after {
-    content: none;
-  }
-
-  .navbar-brand-mobile-wrapper {
-    position: absolute;
-    left: 0;
-    right: 0;
-  }
-
-  .navbar-brand {
-    margin: 0 auto;
-  }
-
   .navbar-brand img {
     max-height: 40px;
   }
@@ -308,4 +294,68 @@ mark,
   font-size: 1.75em;
   font-weight: 300;
   margin: 20px 0 10px 0;
+}
+
+// 言語切り替え（JP | EN）: 今の言語を塗りつぶし、もう一方をリンクにする（layouts/partials/navbar.html と対応）
+.lang-switch {
+  display: flex;
+  flex-shrink: 0;
+  align-items: center;
+  margin-left: 0.75rem;
+  border: 1px solid rgba(108, 99, 255, 0.7);
+  border-radius: 999px;
+  overflow: hidden;
+  font-size: 0.8rem;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+
+  .lang-switch-item {
+    padding: 0.2rem 0.65rem;
+    line-height: 1.5;
+    color: $star-white;
+  }
+
+  .lang-switch-item.active {
+    background: $space-accent;
+    color: #fff;
+  }
+
+  a.lang-switch-item:hover {
+    background: rgba(108, 99, 255, 0.3);
+    color: #fff;
+  }
+}
+
+// 折りたたみ表示（1200px 未満）では、サイト名を「≡」と言語切り替えの間の空きに中央寄せし、
+// 狭い画面では末尾を省略して言語切り替えと重ならないようにする
+@media (max-width: 1199.98px) {
+  #navbar-main > .container-xl {
+    flex-wrap: nowrap;
+  }
+
+  .navbar-brand-mobile-wrapper {
+    position: static;
+    flex: 1 1 auto;
+    min-width: 0;
+    justify-content: center;
+  }
+
+  .navbar-brand-mobile-wrapper .navbar-brand {
+    min-width: 0;
+    margin: 0 0.5rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .lang-switch {
+    margin-left: 0.25rem;
+    font-size: 0.72rem;
+
+    .lang-switch-item {
+      padding: 0.15rem 0.5rem;
+    }
+  }
 }

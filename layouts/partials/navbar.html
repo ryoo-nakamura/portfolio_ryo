@@ -181,24 +181,20 @@
 
       {{ $show_translations := site.Params.main_menu.show_translations | default true }}
       {{ if .IsTranslated | and $show_translations }}
-      <li class="nav-item dropdown i18n-dropdown">
-        <a href="#" class="nav-link {{ if $show_current_language }}dropdown-toggle{{end}}" data-toggle="dropdown"
-           aria-haspopup="true" aria-label="{{ i18n "languages" | default "Languages" }}">
-          <i class="fas fa-globe mr-1" aria-hidden="true"></i>
-          {{- if $show_current_language -}}
-            <span class="d-none d-xl-inline">{{ index site.Data.i18n.languages .Lang }}</span>
-          {{- end -}}
-        </a>
-        <div class="dropdown-menu">
-          <div class="dropdown-item dropdown-item-active">
-            <span>{{ index site.Data.i18n.languages .Lang }}</span>
-          </div>
-          {{ range .Translations }}
-          <a class="dropdown-item" href="{{ .Permalink }}"{{ if $.IsHome }} data-target="{{ .RelPermalink }}"{{ end }}>
-            <span>{{ index site.Data.i18n.languages .Lang }}</span>
-          </a>
+      {{ $lang_labels := dict "ja" "JP" "en" "EN" }}
+      <li class="nav-item lang-switch" aria-label="{{ i18n "languages" | default "Languages" }}">
+        {{ range site.Languages }}
+          {{ $label := index $lang_labels .Lang | default (upper .Lang) }}
+          {{ $name := index site.Data.i18n.languages .Lang }}
+          {{ if eq .Lang $.Lang }}
+            <span class="lang-switch-item active" aria-current="true" title="{{ $name }}">{{ $label }}</span>
+          {{ else }}
+            {{ $lang := .Lang }}
+            {{ range $.Translations }}{{ if eq .Lang $lang }}
+            <a class="lang-switch-item" href="{{ .Permalink }}" hreflang="{{ .Lang }}" lang="{{ .Lang }}" title="{{ $name }}">{{ $label }}</a>
+            {{ end }}{{ end }}
           {{ end }}
-        </div>
+        {{ end }}
       </li>
       {{ end }}
 
