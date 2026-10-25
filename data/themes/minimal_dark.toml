@@ -1,0 +1,25 @@
+# Theme metadata
+name = "Minimal Dark"
+
+# Is theme light or dark?
+light = false
+
+# Primary
+primary = "#1565c0"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#34495e"
+menu_text_active = "#2962ff"
+menu_title = "#2b2b2b"
+
+# Background (light 標準の minimal をダークに切り替えたときと同じ色)
+background = "hsla(231, 15%, 16%, 1)"
+
+# Home sections
+home_section_odd = "hsla(231, 15%, 18%, 1)"
+home_section_even = "hsla(231, 15%, 16%, 1)"
+
+[dark]
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
